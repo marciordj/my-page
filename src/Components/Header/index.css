@@ -12,6 +12,11 @@
 }
 
 .menu > li {
-  padding-right: 40px;
+  margin-right: 30px;
   list-style: none;
+}
+
+.menu > li:hover {
+  border-bottom: 2px solid; 
+  border-color:#53CCD9;
 }
