@@ -1,0 +1,11 @@
+.main-content {
+  max-width: 100%;
+  width: 50rem;
+  color: #E4E4E4;
+  margin-top: 100px;
+}
+
+.main-content > p {
+  line-height: 1.5rem;
+  font-size: 1.2rem;
+}

@@ -1,0 +1,17 @@
+.header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  background-color: #000;
+  color: #E4E4E4;
+}
+
+.menu {
+  display: flex;
+}
+
+.menu > li {
+  padding-right: 40px;
+  list-style: none;
+}
